@@ -34,7 +34,7 @@ Collection of programs written in MIPS Assembly Language.
 16. [Find the total sum of an integer array](lab/5/lab5b.s)
 17. [Find the sum of the odd and even elements of an array](lab/5/lab5c.s)
 
-## Lab 6
+<!-- ## Lab 6
 
 18. [Find the length of a given input string](lab/6/lab6a.s)
 19. [Reverse an input string](lab/6/lab6b.s)
@@ -67,4 +67,4 @@ Collection of programs written in MIPS Assembly Language.
 34. [Complex Number Addition](lab/10/lab10a.s)
 35. [Average of an integer array](lab/10/lab10b.s)
 36. [Compare floating point numbers](lab/10/lab10c.s)
-37. [Using Conditionals to find the bill](lab/10/lab10d.s)
+37. [Using Conditionals to find the bill](lab/10/lab10d.s) -->
