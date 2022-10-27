@@ -34,14 +34,14 @@ Collection of programs written in MIPS Assembly Language.
 16. [Find the total sum of an integer array](lab/5/lab5b.s)
 17. [Find the sum of the odd and even elements of an array](lab/5/lab5c.s)
 
-<!-- ## Lab 6
+## Lab 6
 
 18. [Find the length of a given input string](lab/6/lab6a.s)
 19. [Reverse an input string](lab/6/lab6b.s)
 20. [Check if the given string is a palindrome or no](lab/6/lab6c.s)
 21. [Concatenate two input strings](lab/6/lab6d.s)
 
-## Lab 7
+<!--## Lab 7
 
 22. [Use procedures to find *sum, difference, product and quotient*](lab/7/lab7a.s)
 23. [Linear Search](lab/7/lab7b.s)
