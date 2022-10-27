@@ -30,6 +30,7 @@ loop:
 	j loop
 
 print:
+	addi	$s1,$s1,-1
 	move $a0, $s1
 	li $v0, 1
 	syscall
