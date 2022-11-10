@@ -43,9 +43,9 @@ Collection of programs written in MIPS Assembly Language.
 
 ## Lab 7
 
-22. [Use procedures to find *sum, difference, product and quotient*](lab/7/lab7a.s)
-23. [Linear Search](lab/7/lab7b.s)
-24. [Fibonacci Series](lab/7/lab7c.s)
+22. [Use procedures to find *sum, difference, product and quotient*](lab/7/lab7a.asm)
+23. [Linear Search](lab/7/lab7b.asm)
+24. [Fibonacci Series](lab/7/lab7c.asm)
 
 <!-- ## Lab 8
 
