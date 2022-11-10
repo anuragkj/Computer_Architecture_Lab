@@ -41,13 +41,13 @@ Collection of programs written in MIPS Assembly Language.
 20. [Check if the given string is a palindrome or no](lab/6/lab6c.s)
 21. [Concatenate two input strings](lab/6/lab6d.s)
 
-<!--## Lab 7
+## Lab 7
 
 22. [Use procedures to find *sum, difference, product and quotient*](lab/7/lab7a.s)
 23. [Linear Search](lab/7/lab7b.s)
-24. [Fibonacci Series](lab/7/lab7c.s)
+<!-- 24. [Fibonacci Series](lab/7/lab7c.s) -->
 
-## Lab 8
+<!-- ## Lab 8
 
 25. [Recursive Binary Search](lab/8/lab8a.s)
 26. [Power of a number using recursion](lab/8/lab8b.s)
