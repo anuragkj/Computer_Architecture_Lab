@@ -47,13 +47,13 @@ Collection of programs written in MIPS Assembly Language.
 23. [Linear Search](lab/7/lab7b.asm)
 24. [Fibonacci Series](lab/7/lab7c.asm)
 
-<!-- ## Lab 8
+## Lab 8
 
 25. [Recursive Binary Search](lab/8/lab8a.s)
 26. [Power of a number using recursion](lab/8/lab8b.s)
 27. [Sum of N Natural Numbers using recursion](lab/8/lab8c.s)
 
-## Lab 9
+<!-- ## Lab 9
 
 28. [Read and print float and double numbers](lab/9/lab9a.s)
 29. [Scan and print float and double numbers](lab/9/lab9b.s)
