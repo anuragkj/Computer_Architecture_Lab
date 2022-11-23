@@ -53,7 +53,7 @@ Collection of programs written in MIPS Assembly Language.
 26. [Power of a number using recursion](lab/8/lab8b.s)
 27. [Sum of N Natural Numbers using recursion](lab/8/lab8c.s)
 
-<!-- ## Lab 9
+## Lab 9
 
 28. [Read and print float and double numbers](lab/9/lab9a.s)
 29. [Scan and print float and double numbers](lab/9/lab9b.s)
@@ -62,7 +62,7 @@ Collection of programs written in MIPS Assembly Language.
 32. [Output of a Polynomial](lab/9/lab9e.s)
 33. [Sum of float array](lab/9/lab9f.s)
 
-## Lab 10
+<!--## Lab 10
 
 34. [Complex Number Addition](lab/10/lab10a.s)
 35. [Average of an integer array](lab/10/lab10b.s)
